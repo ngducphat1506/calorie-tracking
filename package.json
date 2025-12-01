@@ -1,0 +1,11 @@
+{
+  "name": "asian-tdee-macro-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "http-server -p 3000 -c-1 --cors -a localhost"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
